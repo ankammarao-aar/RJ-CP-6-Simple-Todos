@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  padding: 32px;
+  text-align: center;
+}
+
+.todos-card {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  border-radius: 12px;
+  padding: 22px;
+}
+
+.heading {
+  color: #ff8542;
+}
+
+.card {
+  padding: 22px;
+}
